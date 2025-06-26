@@ -1,0 +1,6 @@
+{
+  "build": {
+    "command": "./setup.sh && dotnet build",
+    "start": "dotnet run"
+  }
+}
